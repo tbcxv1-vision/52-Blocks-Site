@@ -1,0 +1,4 @@
+:HL["/52-Blocks-Site/_next/static/media/bd9b9909c3a641ff-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/52-Blocks-Site/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/52-Blocks-Site/_next/static/css/dd8c2e53102166a0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"virtual","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"zemW_yFUp64aYts018W6G"}
